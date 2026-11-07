@@ -1,0 +1,4 @@
+# Course materials stay local
+*.pdf
+*.pptx
+~$*
